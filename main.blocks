@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="II^.A{Q]0;mXAme/{XFI" x="0" y="0"></block><block type="device_forever" id="AcZ#akK`Z!X5I/A9/@wT" x="205" y="0"></block><block type="device_button_event" id="Si+Nzc!p8G^)9`mY)+`9" x="365" y="158"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="controls_repeat_ext" id="@$[5/;^]`9^gnYxb6uq$"><value name="TIMES"><shadow type="math_whole_number" id="}JS?Y~D|,?rDvp4Ne(+T"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="record_playAudio" id="WCba2#)G!x#N~HG{he8W"><field name="mode">record.BlockingState.Blocking</field></block></statement></block></statement></block><block type="device_button_event" id="FL+I(m5^IAK8:}Ta/r3;" x="49" y="243"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="record_startRecording" id=";JU%jUM|PiOw3XTX)THS"><field name="mode">record.BlockingState.Blocking</field></block></statement></block></xml>
